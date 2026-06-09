@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://physicaldoges.github.io/soldrift-devbeast5775-security-warning/sitemap.xml
