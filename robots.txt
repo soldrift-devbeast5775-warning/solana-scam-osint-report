@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://physicaldoges.github.io/soldrift-devbeast5775-security-warning/sitemap.xml
+Sitemap: https://soldrift-devbeast5775-warning.github.io/solana-scam-osint-report/sitemap.xml
